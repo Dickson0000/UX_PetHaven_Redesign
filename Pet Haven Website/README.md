@@ -6,7 +6,7 @@ Redesign a modern, user-friendly pet adoption website that helps connect loving 
 
 ## Overview
 
-Pet Haven is a pet adoption platform, this assignment aims for featuring an improved design focused on usability and clear navigation. The website helps users find, learn about, and adopt pets through a streamlined process.
+Pet Haven (https://www.pethaven.com.hk/catalog/adoption/adoption_home.php) is a pet adoption platform, this assignment aims for featuring an improved design focused on usability and clear navigation. The website helps users find, learn about, and adopt pets through a streamlined process.
 
 ## Features
 
@@ -87,4 +87,5 @@ The website includes sample data for 6 pets:
 Thank you!
 
 ---
+
 
